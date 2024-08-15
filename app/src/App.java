@@ -5,6 +5,7 @@ public class App {
         c1.ponta = 0.5f;
         c1.tampada = false;
         c1.tampar();
+        c1.rabiscar();
         c1.status();
     }
 }
